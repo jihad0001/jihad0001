@@ -10,7 +10,7 @@
   <img src="https://discord.c99.nl/widget/theme-5/1031010898673942549.png"/>
 </p>
 <p align="center">
-Currently learning JavaScript
+probably skidding a bot src, leaking a bot src, or coding a tool lmfao.
 <p align="center">
     <a href="https://discord.gg/tags">where i be</a>
     <p align="center">
