@@ -14,5 +14,5 @@ Currently learning JavaScript
 <p align="center">
     <a href="https://discord.gg/tags">where i be</a>
     <p align="center">
-    <a href="https://kys.lol">biolink</a>
+    <a href="https://kys.lol/xanny">biolink</a>
 
